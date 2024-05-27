@@ -1,1 +1,2 @@
-Ini adalah project Klasifikasi gambar menggunakan bahaa pemrograman Python
+Halo semuanya,
+Ini adalah project Klasifikasi gambar (Rock, paper, scisors) menggunakan bahasa pemrograman python yang dijalanakn di Jupyter Notebook
